@@ -27,7 +27,9 @@ This project is a **simple web-based application** for managing online events, a
 
 ## 📸 Screenshots
 
-> Add screenshots here (optional)
+### 🔹 Dashboard View  
+
+![Image View](image.png)
 
 ---
 
@@ -64,9 +66,5 @@ This project is open-source and free to use under the [MIT License](https://open
 ## 🙌 Author
 
 **Dinesh Shankar P**
-
-- 📧 Email: dineshshankar156@gmail.com  
-- 🔗 [GitHub](https://github.com/Dinesh1845)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dineshshankar156)
 
 ---
